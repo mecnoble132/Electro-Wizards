@@ -343,6 +343,7 @@ a:hover {
   border-radius: 20px;
   max-height: 430px;
   overflow-y: auto;
+  width: 800px;
 }
 
 .project-modal-name {
@@ -366,4 +367,7 @@ a:hover {
   position: absolute;
   top: 28px;
   right: 15px;
+}
+.fa-xmark:hover {
+  cursor: pointer;
 }
