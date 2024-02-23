@@ -391,3 +391,11 @@ a:hover {
     display: none;
   }
 }
+@media only screen and (max-width: 350px) {
+  /* For mobile phones: */
+  .project-modal {
+    width: 310px;
+    max-height: 350px;
+  }
+
+}
