@@ -95,7 +95,7 @@ nav a:hover::after{
     justify-items: center;
 }
 .about-child{
-    background-color: #bdbdbd;
+    background-color: #f3f3f3;
     padding: 25px;
     margin: 10px;
     transition: 0.5s;
@@ -260,7 +260,7 @@ a:hover {
 .blue-head-text {
   font-family: 'Supercharge Italic Regular';
   font-weight: normal;
-  color: #00076d;
+  color: #e6e7ff;
 }
 #projects {
   margin-top: 30px;
@@ -367,7 +367,7 @@ a:hover {
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .blue-head-text {
-    color: #1f2dee;
+    color: #e6e7ff;
   }
   .header-text h1 {
     font-size: 50px;
@@ -385,7 +385,7 @@ a:hover {
     margin-right: 10px;
   }
   header nav a i {
-    font-size: 20px;
+    font-size: 100px;
   }
   header nav a span {
     display: none;
